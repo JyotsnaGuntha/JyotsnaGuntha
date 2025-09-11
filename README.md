@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -- 👯 I’m looking to collaborate on **full-stack web applications** and **AI/ML projects**.   
 -- 🤔 I’m looking for help with **optimizing backend performance & scaling apps**.  
 -- 💬 Ask me about **AI Agents, React, JavaScript, MongoDB, Node.js, Express, and full-stack development**.  
--- 📫 How to reach me: [Mail](mailto:jyotsnaguntha@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jyotsnaguntha/)  
+-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jyotsnaguntha/)  
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotsnaGuntha&layout=compact)
