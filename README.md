@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotsnaGuntha&layout=compact)
+<img width=390 src="https://streak-stats.demolab.com/?user=JyotsnaGuntha&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
